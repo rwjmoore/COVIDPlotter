@@ -1,1 +1,1 @@
-# COVIDGxng
+# COVID Plotter
